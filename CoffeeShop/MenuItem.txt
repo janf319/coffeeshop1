@@ -1,0 +1,11 @@
+﻿coffee
+Brown Sugar, 0.25
+Honey, 0.10
+**
+sandwich
+Bacon, 0.59
+Eggs, 0.25
+**
+Pastry
+cake pop, 1.50
+cupcake, 1.50

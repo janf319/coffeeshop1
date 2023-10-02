@@ -1,0 +1,8 @@
+C:\Users\Fatima\source\repos\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\Fatima\source\repos\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\Fatima\source\repos\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Fatima\source\repos\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\Fatima\source\repos\CoffeeShop\obj\Debug\CoffeeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatima\source\repos\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Fatima\source\repos\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\Fatima\source\repos\CoffeeShop\obj\Debug\CoffeeShop.pdb
